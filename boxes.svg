@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="20in"
+   height="12in"
+   viewBox="0 0 508.00001 304.8"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   sodipodi:docname="boxes.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showgrid="true"
+     inkscape:zoom="0.36440298"
+     inkscape:cx="982.42885"
+     inkscape:cy="712.1237"
+     inkscape:window-width="1251"
+     inkscape:window-height="743"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="in"
+       originx="0"
+       originy="0"
+       spacingx="3.175"
+       spacingy="3.175"
+       empcolor="#e5bf00"
+       empopacity="0.14901961"
+       color="#e5bf00"
+       opacity="0.10196078"
+       empspacing="8"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="ENGRAVE"
+     inkscape:highlight-color="#3af335" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="SCORE"
+     inkscape:highlight-color="#3537f3" />
+  <g
+     inkscape:label="CUT"
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:highlight-color="#000000">
+    <path
+       style="opacity:0.99;fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.254;stroke-miterlimit:3.9"
+       d="m 228.59999,-1e-6 h 25.4 v 0 V 50.8 H 304.8 v 50.8 h -50.80001 v 50.8 h -25.4 v -50.8 h -50.8 V 50.8 h 50.8 V -1e-6"
+       id="path3594" />
+    <path
+       style="opacity:0.99;fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.254;stroke-miterlimit:3.9"
+       d="m 406.4,127 h 25.4 v 0 50.8 h 50.80001 v 50.8 H 431.8 v 50.8 h -25.4 v -50.8 h -50.8 v -50.8 h 50.8 V 127"
+       id="path3594-9" />
+    <path
+       style="opacity:0.99;fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.254;stroke-miterlimit:3.9"
+       d="m 20.317486,208.26994 v -50.8 h 50.8 v 50.8 h 25.40001 v -50.8 h 50.799994 v 50.8 h -25.4 v 25.4 h 25.4 v 50.80001 H 96.517496 v -50.80001 h -25.40001 v 50.80001 h -50.8 v -50.80001 h 25.4 v -25.4 h -25.4"
+       id="path3628" />
+    <path
+       style="opacity:0.99;fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.254;stroke-miterlimit:3.9"
+       d="M 25.4,50.8 V 0 H 76.200002 V 50.8 H 101.6 V 0 h 50.8 V 50.8 H 127 v 25.4 h 25.4 v 50.80001 H 101.6 V 76.2 H 76.200002 v 50.80001 H 25.4 V 76.2 H 50.800001 V 50.8 H 25.4"
+       id="path3628-4" />
+    <path
+       style="opacity:0.99;fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.254;stroke-miterlimit:3.9"
+       d="M 228.59999,203.2 V 177.8 H 254 v 25.4 h 50.8 V 254 H 254 v 25.4 H 228.59999 V 254 h -50.8 v -50.8 h 50.8"
+       id="path3652" />
+    <path
+       style="opacity:0.99;fill:none;fill-opacity:0;stroke:#000000;stroke-width:0.254;stroke-miterlimit:3.9"
+       d="M 406.4,25.4 V 0 h 25.40001 v 25.4 h 50.8 v 50.8 h -50.8 v 25.4 H 406.4 V 76.2 H 355.6 V 25.4 h 50.8"
+       id="path3652-5" />
+  </g>
+  <inkscape:templateinfo>
+    <inkscape:name>Glowforge Template</inkscape:name>
+    <inkscape:author>k</inkscape:author>
+    <inkscape:date>2023-10-16</inkscape:date>
+    <inkscape:keywords>gf</inkscape:keywords>
+  </inkscape:templateinfo>
+</svg>

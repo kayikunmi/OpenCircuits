@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="20in"
+   height="12in"
+   viewBox="0 0 508.00001 304.8"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   sodipodi:docname="pyramid.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="in"
+     showgrid="true"
+     inkscape:zoom="0.72880595"
+     inkscape:cx="1075.0461"
+     inkscape:cy="692.22815"
+     inkscape:window-width="1216"
+     inkscape:window-height="695"
+     inkscape:window-x="97"
+     inkscape:window-y="50"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid1"
+       units="in"
+       originx="0"
+       originy="0"
+       spacingx="3.175"
+       spacingy="3.175"
+       empcolor="#e5bf00"
+       empopacity="0.14901961"
+       color="#e5bf00"
+       opacity="0.10196078"
+       empspacing="8"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       visible="true" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="ENGRAVE"
+     inkscape:highlight-color="#3af335" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="SCORE"
+     inkscape:highlight-color="#3537f3" />
+  <g
+     inkscape:label="CUT"
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:highlight-color="#000000">
+    <path
+       d="m 384.44915,201.53306 v 39.33383 h 31.8218 v -39.33383 z"
+       id="side4_outsideCutPath"
+       stroke="#FF0000"
+       stroke-width="0.1"
+       style="fill:none;stroke:#ff0000;stroke-width:1.03751"
+       vector-effect="non-scaling-stroke" />
+    <path
+       d="m 341.21004,202.02473 v 39.33384 h 31.8218 v -39.33384 z"
+       id="side4_outsideCutPath-0"
+       stroke="#FF0000"
+       stroke-width="0.1"
+       style="fill:none;stroke:#ff0000;stroke-width:1.03751"
+       vector-effect="non-scaling-stroke" />
+    <path
+       d="m 296.87626,201.53306 v 39.33383 h 31.8218 v -39.33383 z"
+       id="side4_outsideCutPath-4"
+       stroke="#FF0000"
+       stroke-width="0.1"
+       style="fill:none;stroke:#ff0000;stroke-width:1.03751"
+       vector-effect="non-scaling-stroke" />
+    <path
+       d="m 341.21004,152.85743 v 39.33384 h 31.8218 v -39.33384 z"
+       id="side4_outsideCutPath-9"
+       stroke="#FF0000"
+       stroke-width="0.1"
+       style="fill:none;stroke:#ff0000;stroke-width:1.03751"
+       vector-effect="non-scaling-stroke" />
+    <path
+       d="m 384.99648,152.85743 v 39.33384 h 31.8218 v -39.33384 z"
+       id="side4_outsideCutPath-00"
+       stroke="#FF0000"
+       stroke-width="0.1"
+       style="fill:none;stroke:#ff0000;stroke-width:1.03751"
+       vector-effect="non-scaling-stroke" />
+    <path
+       d="m 257.6655,194.78731 27.25707,17.78872 -10.41023,28.78254 h -33.69367 l -10.41023,-28.78254 z"
+       id="top_outsideCutPath"
+       stroke="#FF0000"
+       stroke-width="0.1"
+       style="fill:none;stroke:#ff0000;stroke-width:1.03751"
+       vector-effect="non-scaling-stroke" />
+    <path
+       d="m 301.45195,145.62 27.25706,17.78873 -10.41023,28.78254 h -33.69367 l -10.41022,-28.78254 z"
+       id="top_outsideCutPath-0"
+       stroke="#FF0000"
+       stroke-width="0.1"
+       style="fill:none;stroke:#ff0000;stroke-width:1.03751"
+       vector-effect="non-scaling-stroke" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5588;stroke-dasharray:none;stroke-opacity:1"
+       d="M 295.81507,162.73478 H 307.975 v 23.78044 h -12.15993 z"
+       id="path1-8" />
+  </g>
+  <inkscape:templateinfo>
+    <inkscape:name>Glowforge Template</inkscape:name>
+    <inkscape:author>k</inkscape:author>
+    <inkscape:date>2023-10-16</inkscape:date>
+    <inkscape:keywords>gf</inkscape:keywords>
+  </inkscape:templateinfo>
+</svg>
